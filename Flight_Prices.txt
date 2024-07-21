@@ -1,0 +1,18 @@
+F001,Economy: $250,First Class: $750,Business: $1500
+F002,Economy: $200,First Class: $900,Business: $1800
+F003,Economy: $300,First Class: $800,Business: $1600
+F004,Economy: $180,First Class: $700,Business: $1400
+F005,Economy: $350,First Class: $1000,Business: $2000
+F006,Economy: $320,First Class: $900,Business: $1900
+F007,Economy: $270,First Class: $750,Business: $1500
+F008,Economy: $220,First Class: $700,Business: $1400
+F009,Economy: $400,First Class: $1200,Business: $2400
+F010,Economy: $150,First Class: $600,Business: $1200
+F011,Economy: $500,First Class: $1500,Business: $3000
+F013,Economy: $450,First Class: $1300,Business: $2600
+F014,Economy: $380,First Class: $1100,Business: $2200
+F015,Economy: $450,First Class: $1300,Business: $2600
+F016,Economy: $380,First Class: $1100,Business: $2200
+
+
+

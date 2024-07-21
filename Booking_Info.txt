@@ -1,0 +1,7 @@
+Flight details: F013, Russia, Islamabad, 04:00 AM,190,Economy: $450 Booked for: abdul123
+Flight details: F002, Los Angeles, New York, 10:00 AM,119,First Class: $900 Booked for: abdul123
+Flight details: F006, Islamabad, Kuwait, 07:00 AM,130,Economy: $320 Booked for: abdul123
+Flight details: F014, Ukraine, Lahore, 05:00 PM,190,First Class: $1100 Booked for: abdul123
+Flight details: F011, Mumbai, Islamabad, 03:00 AM,190,Economy: $500 Booked for: abdul123
+Flight details: F011, Mumbai, Islamabad, 03:00 AM,189,Economy: $500 Booked for: abdul123
+Flight details: F008, Karachi, Islamabad, 08:00 AM,150,Economy: $220 Booked for: abdul123
