@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
     public class User {
     static Scanner input = new Scanner(System.in); // Scanner object
         // Method to display main menu
