@@ -1,4 +1,4 @@
-# Airline Reservation System
+# Flight Reservation System
 
 ## Overview
 
