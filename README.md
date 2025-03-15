@@ -1,10 +1,10 @@
 # Airline Reservation System
 
--> Overview
+## Overview
 
-This project is a console-based airline reservation system implemented in Java. The system allows users to book flights, cancel bookings, check their booked flights, change their passwords, and manage their payment information. 
+This project is a console-based airline reservation system implemented in Java. The system allows users to book flights, cancel bookings, check their booked flights, change their passwords, and manage their payment information.
 
--> Features
+## Features
 
 1. **User Authentication**: Users can log in to the system with a username and password.
 2. **Flight Booking**: Users can view available flights and book seats.
@@ -13,30 +13,34 @@ This project is a console-based airline reservation system implemented in Java. 
 5. **Change Password**: Users can change their account password.
 6. **Payment Management**: Users can add or update their payment information.
 
--> File Structure
+## File Structure
 
-- `User.java`: Contains the main user functionalities including booking flights, canceling flights, checking bookings, changing passwords, and managing payment information.
-- `Prices.java`: Handles the pricing details for different flights.
-- `Payment.java`: Manages the payment process and stores payment information.
-- `Account_Info.txt`: Stores user account information in the format `username,password`.
-- `Flight_Info.txt`: Contains information about available flights in the format `Flight Number,Departure,Destination,Time of Departure,Seats Available`.
-- `Booking_Info.txt`: Stores booking information for users.
+- `src/User.java`: Contains the main user functionalities including booking flights, canceling flights, checking bookings, changing passwords, and managing payment information.
+- `src/Prices.java`: Handles the pricing details for different flights.
+- `src/Payment.java`: Manages the payment process and stores payment information.
+- `data/Account_Info.txt`: Stores user account information in the format `username,password`.
+- `data/Flight_Info.txt`: Contains information about available flights in the format `Flight Number,Departure,Destination,Time of Departure,Seats Available`.
+- `data/Booking_Info.txt`: Stores booking information for users.
 
-
--> Methods
+## Methods
 
 - `appMenu(String username)`: Displays the main menu and handles user choices.
 - `multipleFlights(String username)`: Displays available flights and allows the user to select one.
-- `selectFlight(String username, String[] flights_info)`: Allows the user to select and book a flight.
-- `cancelFlights(String username)`: Allows the user to cancel a booked flight.
+- `selectseat(String username, String[] flights_info)`: Allows the user to select and book a flight.
+- `cancelseat(String username)`: Allows the user to cancel a booked flight.
 - `checkBooking(String username)`: Displays all flights booked by the user.
 - `changePassword(String username)`: Allows the user to change their account password.
 
--> Admin Methods
+## Admin Methods
+
 - **Add Flight**: Admins can add new flights to the system.
 - **Delete Flight**: Admins can delete existing flights from the system.
 - **View All Bookings**: Admins can view all bookings made by users.
 - **Manage User Accounts**: Admins can manage user accounts including adding and deleting users.
+
+## Usage
+
+To run the application, start from the main file located in the `src` directory.
 
 -> Usage
 
